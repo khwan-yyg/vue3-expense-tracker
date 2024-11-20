@@ -1,10 +1,7 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+This projece use for learn basic CRUD operation in VUE3
+![localhost_5173_(destop)](https://github.com/user-attachments/assets/b42f8b33-19eb-420e-b160-4f2b870df83c)
 
 ## Customize configuration
 
